@@ -8,10 +8,10 @@ Não há nenhuma informação informação sensível ou relação com quaisquer 
 
 ## ficha técnica
 
->_Ambiente:_ execução local
-_tecnologias:_ JavaScript, PHP, NodeJS, Python, HTML5, CSS
-_API:_ sempre Restfull
-_SOs suportados:_ Windows, Mac e Linux
+>_Ambiente:_ execução local  
+_tecnologias:_ JavaScript, PHP, NodeJS, Python, HTML5, CSS  
+_API:_ sempre Restfull  
+_SOs suportados:_ Windows, Mac e Linux  
 
 ## compartilhamento
 

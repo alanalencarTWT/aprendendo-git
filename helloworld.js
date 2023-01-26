@@ -3,4 +3,4 @@
  * @author Alan Alencar
  */
 
- console.log('Hello World!');
+ console.log('❤️ Hello World!\nOlá Mundo\nHola Mundo');
